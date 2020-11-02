@@ -1,0 +1,16 @@
+Package: Lab2
+Type: Package
+Title: Analysis of Hospital-Specific Charges
+Version: 0.1.0
+Author: Yongqi Sun 
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Make boxplots and calculate mean, median, standard deviation
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
+Imports: 
+    ggplot2,
+    dplyr
